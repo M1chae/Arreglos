@@ -1,0 +1,18 @@
+button{
+    background-color: blueviolet;
+    color: black;
+    border: solid 3px;
+    border-color: black;
+    border-radius: 8px 8px 8px 8px;
+    padding: 15px 32px;
+    font-size: 18px;
+    font-family: 'Franklin Gothic Medium';
+    margin: 4px 2px;
+    
+    
+}
+body{
+    background-color: skyblue;
+    color: brown;
+    font-size: 20px;
+}
